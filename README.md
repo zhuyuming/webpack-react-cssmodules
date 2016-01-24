@@ -1,2 +1,2 @@
 * run it with `npm start`
-* built it with `npm run build`
+* build it with `npm run build`
